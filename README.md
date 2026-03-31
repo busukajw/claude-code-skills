@@ -6,7 +6,7 @@ A collection of reusable skills for [Claude Code](https://claude.ai/code) to boo
 
 **One-command install:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-code-skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/busukajw/claude-code-skills/main/install.sh | bash
 ```
 
 **Or manual install:**
@@ -67,7 +67,7 @@ Skills can be installed **globally** (available in all projects) or **per-projec
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude-code-skills.git
+git clone https://github.com/busukajw/claude-code-skills.git
 
 # Run installer
 cd claude-code-skills
@@ -213,8 +213,8 @@ Built for the [Claude Code](https://claude.ai/code) community.
 
 ## 📞 Support
 
-- 🐛 [Report issues](https://github.com/YOUR_USERNAME/claude-code-skills/issues)
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/claude-code-skills/discussions)
+- 🐛 [Report issues](https://github.com/busukajw/claude-code-skills/issues)
+- 💬 [Discussions](https://github.com/busukajw/claude-code-skills/discussions)
 - 📖 [Claude Code Documentation](https://docs.anthropic.com)
 
 ---

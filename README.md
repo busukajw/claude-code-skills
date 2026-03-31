@@ -11,7 +11,7 @@ curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/claude-code-skills/ma
 
 **Or manual install:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/claude-code-skills.git
+git clone https://github.com/busukajw/claude-code-skills.git
 cd claude-code-skills
 ./install.sh
 ```
